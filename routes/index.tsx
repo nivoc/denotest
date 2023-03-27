@@ -8,7 +8,7 @@ export default function Home() {
         <title>Fresh App</title>
       </Head>
       <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
-      <h1 className="text-5xl font-bold p-10">Welcome to Remix1</h1>
+      <h1 className="text-5xl font-bold p-10">Welcome to Remix2</h1>
       <ul>
         <li>
           <a
